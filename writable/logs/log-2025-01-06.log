@@ -1,0 +1,212 @@
+DEBUG - 2025-01-06 06:12:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 06:38:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 06:38:58 --> Auth failed - Session data: Array
+(
+    [__ci_last_regenerate] => 1736145538
+    [_ci_previous_url] => http://gobuddyplan.iceiy.com/gobuddy/public/
+)
+
+DEBUG - 2025-01-06 06:38:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 06:39:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 06:39:04 --> Session data set: Array
+(
+    [id] => 1
+    [name] => tara
+    [email] => taralubis12@gmail.com
+    [isLoggedIn] => 1
+)
+
+DEBUG - 2025-01-06 06:39:04 --> Current session ID: 1
+DEBUG - 2025-01-06 06:39:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 06:39:04 --> Auth success - User ID: 1
+DEBUG - 2025-01-06 06:39:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 06:39:18 --> Auth success - User ID: 1
+DEBUG - 2025-01-06 07:39:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 07:39:23 --> Auth success - User ID: 1
+DEBUG - 2025-01-06 07:39:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 07:39:28 --> Auth success - User ID: 1
+DEBUG - 2025-01-06 07:39:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 07:39:39 --> Auth success - User ID: 1
+DEBUG - 2025-01-06 07:53:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 07:53:29 --> Auth success - User ID: 1
+DEBUG - 2025-01-06 07:59:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 07:59:47 --> Auth success - User ID: 1
+DEBUG - 2025-01-06 08:00:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:00:07 --> Auth success - User ID: 1
+DEBUG - 2025-01-06 08:00:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:00:20 --> Auth success - User ID: 1
+DEBUG - 2025-01-06 08:00:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:00:22 --> Auth success - User ID: 1
+DEBUG - 2025-01-06 08:15:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:15:38 --> Auth success - User ID: 1
+DEBUG - 2025-01-06 08:15:38 --> >>> Update method called for ID: 18
+DEBUG - 2025-01-06 08:15:38 --> Request Method: POST
+DEBUG - 2025-01-06 08:15:38 --> Data prepared for updating: Array
+(
+    [destination] => Medan
+    [start_date] => 2024-12-30
+    [end_date] => 2024-12-31
+    [activities] => Yesss
+)
+
+DEBUG - 2025-01-06 08:15:38 --> Data updated successfully for ID: 18
+DEBUG - 2025-01-06 08:15:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:15:39 --> Auth success - User ID: 1
+DEBUG - 2025-01-06 08:31:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:31:17 --> Auth success - User ID: 1
+DEBUG - 2025-01-06 08:31:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:31:21 --> Auth success - User ID: 1
+DEBUG - 2025-01-06 08:31:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:31:24 --> Auth success - User ID: 1
+DEBUG - 2025-01-06 08:31:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:31:27 --> Auth success - User ID: 1
+DEBUG - 2025-01-06 08:34:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:34:58 --> Auth success - User ID: 1
+DEBUG - 2025-01-06 08:35:02 --> >>> Remove User from Plan called for Plan ID: 18 and User Email: 18222026@mahasiswa.itb.ac.id
+DEBUG - 2025-01-06 08:35:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:35:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:35:02 --> Auth success - User ID: 1
+DEBUG - 2025-01-06 08:36:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:36:25 --> Auth success - User ID: 1
+DEBUG - 2025-01-06 08:36:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:36:25 --> Auth success - User ID: 1
+DEBUG - 2025-01-06 08:44:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:44:36 --> Auth success - User ID: 1
+DEBUG - 2025-01-06 08:47:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:47:04 --> Auth success - User ID: 1
+DEBUG - 2025-01-06 08:47:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:47:09 --> Auth success - User ID: 1
+DEBUG - 2025-01-06 08:48:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:48:46 --> Auth success - User ID: 1
+DEBUG - 2025-01-06 08:51:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:51:59 --> Auth success - User ID: 1
+DEBUG - 2025-01-06 08:52:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:52:03 --> Auth success - User ID: 1
+DEBUG - 2025-01-06 08:52:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:52:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:52:06 --> Auth success - User ID: 1
+DEBUG - 2025-01-06 08:52:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:52:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:52:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:52:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:52:42 --> Session data set: Array
+(
+    [id] => 7
+    [name] => tara
+    [email] => huha@gmail.com
+    [isLoggedIn] => 1
+)
+
+DEBUG - 2025-01-06 08:52:42 --> Current session ID: 7
+DEBUG - 2025-01-06 08:52:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:52:42 --> Auth success - User ID: 7
+DEBUG - 2025-01-06 08:52:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:52:48 --> Auth success - User ID: 7
+DEBUG - 2025-01-06 08:52:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:52:59 --> Auth success - User ID: 7
+DEBUG - 2025-01-06 08:52:59 --> >>> Store method called
+DEBUG - 2025-01-06 08:52:59 --> Request Method: POST
+DEBUG - 2025-01-06 08:52:59 --> User ID from session: 7
+DEBUG - 2025-01-06 08:52:59 --> Data prepared for saving: Array
+(
+    [user_id] => 7
+    [destination] => Hahahah
+    [start_date] => 2025-01-15
+    [end_date] => 2025-01-29
+    [activities] => Yey
+)
+
+DEBUG - 2025-01-06 08:52:59 --> Data saved successfully
+DEBUG - 2025-01-06 08:53:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:53:00 --> Auth success - User ID: 7
+DEBUG - 2025-01-06 08:53:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:53:05 --> Auth success - User ID: 7
+DEBUG - 2025-01-06 08:53:05 --> >>> Add User to Plan called for Plan ID: 22
+DEBUG - 2025-01-06 08:53:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:53:05 --> Auth success - User ID: 7
+DEBUG - 2025-01-06 08:53:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:53:15 --> Auth success - User ID: 7
+DEBUG - 2025-01-06 08:53:15 --> >>> Add User to Plan called for Plan ID: 22
+DEBUG - 2025-01-06 08:53:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:53:16 --> Auth success - User ID: 7
+DEBUG - 2025-01-06 08:53:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:53:28 --> Auth success - User ID: 7
+DEBUG - 2025-01-06 08:53:28 --> >>> Add User to Plan called for Plan ID: 22
+DEBUG - 2025-01-06 08:53:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:53:28 --> Auth success - User ID: 7
+DEBUG - 2025-01-06 08:53:35 --> >>> Remove User from Plan called for Plan ID: 22 and User Email: 18222026@mahasiswa.itb.ac.id
+DEBUG - 2025-01-06 08:53:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:53:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:53:36 --> Auth success - User ID: 7
+DEBUG - 2025-01-06 08:53:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:53:38 --> Auth success - User ID: 7
+DEBUG - 2025-01-06 08:53:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:53:42 --> Auth success - User ID: 7
+DEBUG - 2025-01-06 08:53:42 --> >>> Update method called for ID: 22
+DEBUG - 2025-01-06 08:53:42 --> Request Method: POST
+DEBUG - 2025-01-06 08:53:42 --> Data prepared for updating: Array
+(
+    [destination] => Hahahah
+    [start_date] => 2025-01-15
+    [end_date] => 2025-01-29
+    [activities] => Yeyss
+)
+
+DEBUG - 2025-01-06 08:53:42 --> Data updated successfully for ID: 22
+DEBUG - 2025-01-06 08:53:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:53:42 --> Auth success - User ID: 7
+DEBUG - 2025-01-06 08:53:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:53:47 --> Auth success - User ID: 7
+DEBUG - 2025-01-06 08:53:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:53:48 --> Auth success - User ID: 7
+DEBUG - 2025-01-06 08:53:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:53:50 --> Auth success - User ID: 7
+DEBUG - 2025-01-06 08:54:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:54:00 --> Auth success - User ID: 7
+DEBUG - 2025-01-06 08:54:00 --> >>> Store method called
+DEBUG - 2025-01-06 08:54:00 --> Request Method: POST
+DEBUG - 2025-01-06 08:54:00 --> User ID from session: 7
+ERROR - 2025-01-06 08:54:00 --> Validation errors: Array
+(
+    [destination] => The destination field must be at least 3 characters in length.
+)
+
+DEBUG - 2025-01-06 08:54:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:54:00 --> Auth success - User ID: 7
+DEBUG - 2025-01-06 08:54:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:54:05 --> Auth success - User ID: 7
+DEBUG - 2025-01-06 08:54:05 --> >>> Store method called
+DEBUG - 2025-01-06 08:54:05 --> Request Method: POST
+DEBUG - 2025-01-06 08:54:05 --> User ID from session: 7
+DEBUG - 2025-01-06 08:54:05 --> Data prepared for saving: Array
+(
+    [user_id] => 7
+    [destination] => med
+    [start_date] => 2025-01-24
+    [end_date] => 2025-01-29
+    [activities] => yey
+)
+
+DEBUG - 2025-01-06 08:54:05 --> Data saved successfully
+DEBUG - 2025-01-06 08:54:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:54:06 --> Auth success - User ID: 7
+DEBUG - 2025-01-06 08:54:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:54:12 --> Auth success - User ID: 7
+DEBUG - 2025-01-06 08:54:12 --> >>> Add User to Plan called for Plan ID: 23
+DEBUG - 2025-01-06 08:54:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:54:13 --> Auth success - User ID: 7
+DEBUG - 2025-01-06 08:54:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:54:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:54:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:54:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:54:23 --> Session data set: Array
+(
+    [id] => 1
+    [name] => tara
+    [email] => taralubis12@gmail.com
+    [isLoggedIn] => 1
+)
+
+DEBUG - 2025-01-06 08:54:23 --> Current session ID: 1
+DEBUG - 2025-01-06 08:54:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-01-06 08:54:24 --> Auth success - User ID: 1
